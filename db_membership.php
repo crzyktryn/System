@@ -2,7 +2,7 @@
 $host = 'localhost';
 $user = 'root';
 $pass = ''; 
-$db = 'membership_db';
+$db = 'pos_membership';
 
 $conn = new mysqli($host, $user, $pass, $db);
 

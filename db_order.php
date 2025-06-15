@@ -2,7 +2,7 @@
 $host = 'localhost';
 $user = 'root';
 $pass = '';
-$db = 'order_db';
+$db = 'pos_order';
 
 $conn = new mysqli($host, $user, $pass, $db);
 
